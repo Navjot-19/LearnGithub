@@ -7,4 +7,4 @@
 5. Use add command followed by name or ".". 
 6. Use commit as 'git commit- m"message" ' to commit locally.
 7. Use add push origin main (origin- link I copied, main- branch).
-8. If origin is local, first use cd followed by .. to come out, then make a new folder/repo by mkdir command, then mkdir LocalRepo, use init command, create files, 
+8. If origin is local, first use cd followed by .. to come out, then make a new folder/repo by mkdir command, then mkdir LocalRepo, use init command, create files, create css file, add and commit.
