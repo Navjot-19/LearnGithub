@@ -1,7 +1,7 @@
 # LearnGithub
-This is my first github repository
+This is my first github repository.
 <br>
-Author- Navjot Singh 19083
+Author- Navjot Singh
 
 <br>
 1. Create a folder named "GitDemo". <br>
